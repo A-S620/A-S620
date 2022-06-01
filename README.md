@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @A-S620
-- 👀 I’m interested in Art, reading, volunteering and travelling.
 - 🌱 I’m currently learning ... full stack engineering
 - 📫 How to reach me ... JellyFish520@protonmail.com
 
