@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @A-S620
-- 🌱 I’m currently learning ... Web3
+- 🌱 I’m currently learning ... AI
 - 📫 How to reach me ... JellyFish520@protonmail.com
 
 <!---
